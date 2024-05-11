@@ -1,7 +1,7 @@
 ### Hola 👋
 # Soy - Carlos Adolfo Mamani Laime
 
-## Estudiante en la Universidad Pública de El Alto - UPEA
+## Estudiante en el INSTITUTO TECNOLÓGICO INDUSTRIAL BRASIL - BOLIVIA
 
 Bienvenido a mi perfil de GitHub. Soy Carlos Adolfo Mamani Laime, actualmente estudiante en la Universidad Pública de El Alto - UPEA, con una pasión por la **Informática Industrial** y la **Ingeniería Gas y Petroquímica**.
 
