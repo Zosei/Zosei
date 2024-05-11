@@ -33,7 +33,7 @@ Bienvenido a mi perfil de GitHub. Soy Carlos Adolfo Mamani Laime, actualmente es
 ### Contacto
 
 - **LinkedIn**: Carlos Adolfo Mamani Laime
-- **Correo Electrónico**: email@example.com
+<!--- **Correo Electrónico**: email@example.com-->
 
 ---
 
