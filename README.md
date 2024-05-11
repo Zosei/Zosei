@@ -3,7 +3,7 @@
 
 ## Estudiante en el INSTITUTO TECNOLÓGICO INDUSTRIAL BRASIL - BOLIVIA
 
-Bienvenido a mi perfil de GitHub. Soy Carlos Adolfo Mamani Laime, actualmente estudiante en la Universidad Pública de El Alto - UPEA, con una pasión por la **Informática Industrial** y la **Ingeniería Gas y Petroquímica**.
+Bienvenido a mi perfil de GitHub. Soy Carlos Adolfo Mamani Laime, actualmente estudiante en la Universidad Pública de El Alto - UPEA, INSTITUTO TECNOLÓGICO INDUSTRIAL BRASIL - BOLIVIA, INSTITUTO TECNOLÓGICO PUERTO DE MEJILLONES con una pasión por la **Informática Industrial** y la **Ingeniería Gas y Petroquímica**.
 
 ### Educación
 
