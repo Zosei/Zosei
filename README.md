@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=¡Hola+👋+Soy+Carlos+Adolfo!;Ingeniero+en+Informática+Industrial;Contador General;Electrónico;Desarrollador+Full+Stack" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola+%F0%9F%91%8B+Soy+Carlos+Adolfo!;Ingeniero+en+Inform%C3%A1tica+Industrial;Contador+General;Electr%C3%B3nico;Desarrollador+Full+Stack" alt="Typing SVG" />
+</p>
 
 <div align="center">
   
